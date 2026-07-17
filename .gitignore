@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual Environment
+venv/
+
+# Database
+db.sqlite3
+
+# Media Files
+media/
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Python environment
+.env
+
+# Pytest
+.pytest_cache/
+
