@@ -77,6 +77,25 @@ python manage.py runserver
 
 ---
 
+## 📸 Screenshots
+
+### Login Page
+![Login](login.png)
+
+### Dashboard
+![Home](home.png)
+
+### Student Details
+![Student Details](student-details.png)
+
+### Attendance
+![Attendance](attendance.png)
+
+### Student ID Card
+![ID Card](id-card.png)
+
+---
+
 ## 👨‍💻 Author
 
 **Libin Lalji**
