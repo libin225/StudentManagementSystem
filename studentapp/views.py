@@ -76,7 +76,7 @@ def home(request):
             Q(course__name__icontains=query)
         )
     else:
-        students = Student.objects.all.order_by("-id")
+        students = Student.objects.all().order_by("-id")
 
     if course_id:
         students = students.filter(course_id=course_id)    
